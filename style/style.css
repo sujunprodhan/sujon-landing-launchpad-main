@@ -20,11 +20,6 @@ main {
   font-size: 34px;
 }
 
-/* a {
-  text-decoration: none;
-  color: #fff;
-} */
-
 .primary_title {
   font-size: 42px;
   font-weight: bold;
@@ -81,10 +76,9 @@ nav {
 }
 
 
-nav h1 {
-  font-family: "Inter", sans-serif;
-  font-size: 34px;
-  font-weight: 900;
+.logo {
+  width: 100px;
+  height: 51px;
 }
 
 .banner_container {
@@ -225,11 +219,6 @@ nav h1 {
   font-weight: bold;
 }
 
-.fa-solid {
-  color: #FFB805;
-  margin-bottom: 24px;
-}
-
 .icon_list h2 {
   font-size: 24px;
   font-weight: bold;
@@ -307,7 +296,6 @@ nav h1 {
   color: #4E47FF;
   font-weight: bold;
   transition: 0.5s;
-
 }
 
 .ready_image img {
