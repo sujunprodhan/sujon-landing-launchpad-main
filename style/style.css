@@ -293,6 +293,7 @@ nav h1 {
   padding: 12px 36px;
   background: #4E47FF;
   font-size: 16px;
+  font-weight: bold;
   color: #fff;
   border: none;
   border-radius: 10px;
@@ -365,6 +366,7 @@ textarea {
 .btn_get {
   background: #4E47FF;
   font-size: 20px;
+  font-weight: bold;
   color: #fff;
   margin-top: 10px;
   margin-bottom: 71px;
