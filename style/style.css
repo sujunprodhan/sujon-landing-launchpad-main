@@ -208,7 +208,16 @@ nav {
   border: 1px solid #F2EDED;
   border-radius: 14px;
   padding: 24px;
+  margin-bottom: 10px;
   box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 5px 0px;
+}
+
+.user_content i {
+  color: #FFB805;
+}
+
+.user_content h2 {
+  margin-top: 10px;
 }
 
 .user_title {
